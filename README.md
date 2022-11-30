@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Twiddle**
 
-- 🌱 I’m currently learning **QA Testing, API Development, and Mobile Developement**
+- 🌱 I’m currently learning **QA Testing, API Development, and Mobile Development**
 
 - 👯 I’m looking to collaborate on **Twiddle**
 
